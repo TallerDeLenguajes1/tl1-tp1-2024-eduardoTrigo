@@ -1,5 +1,5 @@
 # tl1-tp1-2024-eduardoTrigo
-### gitignore
+## gitignore
 
 **¿Por qué es conveniente incluirlo?**
 - para omitir archivos a la hora de subir archivos innecesarios
